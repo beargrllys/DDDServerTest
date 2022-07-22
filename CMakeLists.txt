@@ -3,4 +3,4 @@ project(untitled1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled1 main.cpp SocketTest.cpp SocketTest.h)
+add_executable(untitled1 main.cpp ServerSocket.cpp ServerSocket.h SocketExeption.h Socket.cpp Socket.h)

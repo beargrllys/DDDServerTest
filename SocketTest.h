@@ -1,8 +1,0 @@
-//
-// Created by js_77 on 2022-07-22 0022.
-//
-
-#ifndef UNTITLED1_SOCKETTEST_H
-#define UNTITLED1_SOCKETTEST_H
-
-#endif //UNTITLED1_SOCKETTEST_H
